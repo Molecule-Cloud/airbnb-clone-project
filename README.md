@@ -34,7 +34,7 @@
 * Secondary Text: Circular, Book (400), 14px
 
 
-#Project Roles and Responsibilities
+# Project Roles and Responsibilities
 
 | Role | Responsibilities |
 |------|------------------|
@@ -45,4 +45,17 @@
 | DevOps Engineers | Manages deployment, CI/CD pipeline, server infrastructure |
 | Product Owner | Defines requirements, prioritizes features, represents stakeholders |
 | Scrum Master | Facilitates agile processes, removes blockers, organizes meetings |
+
+# UI Component Patterns
+1. Navbar
+** Logo
+** Search Bar
+** User Navigation
+** Responsive Menu
+
+2. Property Card
+** Property Image
+** Basic details (price, location, rating)
+** Favorite button
+** Responsive layout
 
