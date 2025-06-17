@@ -48,14 +48,14 @@
 
 # UI Component Patterns
 1. Navbar
-** Logo
-** Search Bar
-** User Navigation
-** Responsive Menu
+* Logo
+* Search Bar
+* User Navigation
+* Responsive Menu
 
 2. Property Card
-** Property Image
-** Basic details (price, location, rating)
-** Favorite button
-** Responsive layout
+* Property Image
+* Basic details (price, location, rating)
+* Favorite button
+* Responsive layout
 
