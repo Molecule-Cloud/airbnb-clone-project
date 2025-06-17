@@ -17,8 +17,6 @@
 | Page | Description           |
 |------|------------------------|
 | Property Listing View | Grid Display of available properties with filters |
-|------|------------------------------|
 | Listing Detailed View | Complete property details with images and booking firm |
-|-----------------------|-------------------------------------------------------|
 | Simple Checkout View | Streamlined payment and booking confirmation |
-|----------------------|--------------------------------------------- | 
+|                        |                                             |
