@@ -59,3 +59,10 @@
 * Favorite button
 * Responsive layout
 
+3. Footer
+* Site links
+* Company Information
+* Social media links
+* Copyright information
+
+Each component will be designed for resuability and consistency across the application 
