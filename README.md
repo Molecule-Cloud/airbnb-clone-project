@@ -1,4 +1,4 @@
-#UI/UX Design Planning
+# UI/UX Design Planning
 
 ## Design Goals
 * Create Intuitive Workflow
