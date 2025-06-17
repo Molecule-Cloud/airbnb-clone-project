@@ -37,6 +37,7 @@
 #Project Roles and Responsibilities
 
 | Role | Responsibilities |
+|------|------------------|
 | Project Manager | Oversees timeline coordinates team, manages deliverables | Implements UI components, ensures responsive design | 
 | BackEnd Developers | Builds APIs, manages database, implements business logic |
 | Designers | Creates mockups, maintains design system, ensures UX quality |
